@@ -1,9 +1,9 @@
 # 🚀 Next.js Crash Course — Learn with Sumit
 
-Welcome to the official source code repository for the **Next.js Crash Course** on [YouTube](https://youtube.com/@LearnwithSumit). This crash course is designed to help you get started with **Next.js** — a powerful React framework for building fast, full-stack web applications.
+Welcome to the official source code repository for the **Next.js Crash Course** on [YouTube](https://youtube.com/@logicBaseLabs). This crash course is designed to help you get started with **Next.js** — a powerful React framework for building fast, full-stack web applications.
 
 🎬 **Watch the full tutorial:**
-👉 [Next.js Crash Course on YouTube](https://youtube.com/@LearnwithSumit)
+👉 [Next.js Crash Course on YouTube](https://youtube.com/@logicBaseLabs)
 
 ---
 
@@ -11,14 +11,20 @@ Welcome to the official source code repository for the **Next.js Crash Course** 
 
 This project covers:
 
-- ✅ Basics of Next.js 14+ App Router (or Pages Router if used)
+- ✅ Basics of Next.js 15+ App Router
 - ✅ File-based Routing
 - ✅ Dynamic Routes
-- ✅ Server-Side Rendering (SSR)
-- ✅ Static Site Generation (SSG)
+- ✅ Layouts & SEO
+- ✅ Server vs Client Components
+- ✅ Data Fetching: SSR, SSG, ISR
+- ✅ Loading & Streaming
+- ✅ Error handling
 - ✅ API Routes
-- ✅ Fetching Data (Client-side and Server-side)
 - ✅ Styling (CSS Modules / TailwindCSS)
+- ✅ Image & Font optimization
+- ✅ Route groups & Parallel Routes
+- ✅ Authentication with NextAuth
+- ✅ Middleware
 - ✅ Deployment tips
 
 ---
@@ -27,7 +33,7 @@ This project covers:
 
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/) *(if used)*
+- [Tailwind CSS](https://tailwindcss.com/)
 - [Vercel](https://vercel.com/) *(optional for deployment)*
 
 ---
@@ -38,8 +44,8 @@ This project covers:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/nextjs-crash-course.git
-cd nextjs-crash-course
+git clone https://github.com/logicbaselabs/next-starter.git
+cd nextjs-starter
 ````
 
 Install dependencies:
