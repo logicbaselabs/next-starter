@@ -4,6 +4,7 @@ Welcome to the official source code repository for the **Next.js Crash Course** 
 
 🎬 **Watch the full tutorial:**
 👉 [Next.js Crash Course on YouTube](https://youtube.com/@logicBaseLabs)
+[![Watch the video](https://img.youtube.com/vi/O5TJYsqwR94/maxresdefault.jpg)](https://www.youtube.com/watch?v=O5TJYsqwR94)
 
 ---
 
